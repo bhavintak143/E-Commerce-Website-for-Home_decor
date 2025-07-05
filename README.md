@@ -44,15 +44,6 @@ Core styling, including navigation, product cards, contact form, benefits sectio
 script.js
 Handles the toggle functionality for the login popup.
 
-🚀 How to Run
-Clone this repository:
-
-bash
-Copy
-Edit
-git clone https://github.com/yourusername/your-repo-name.git
-Navigate to the project folder and open index.html in your browser.
-
 💡 All assets (like images) should be placed in an images/ folder as referenced in the HTML files.
 
 🛠️ Future Improvements
